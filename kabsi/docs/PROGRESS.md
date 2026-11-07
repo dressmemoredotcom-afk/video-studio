@@ -1,7 +1,7 @@
 # Kabsi video progress
 
 One row per video in section 4 of `VIDEO-PLAN.md`. Status words are the plan's: done, ready to make, waits for
-footage, later. Version is the latest render in `kabsi/out/<ID>/`. W1 v1 is the first catalogue video rendered from this repo. `kit-test` (`kabsi/out/kit-test/`) is the brand kit's own test, not a catalogue video.
+footage, later. Version is the latest render in `kabsi/out/<ID>/`. W1 v1 is the first catalogue video rendered from this repo. `kit-test` is the brand kit's own test, not a catalogue video; its package was removed from `kabsi/out/` on 7 Nov 2026 to save space and is made again with `npm run kabsi:render -- kit-test`.
 
 | ID | Video | Status | Version | Lane R review | Publish gate |
 | --- | --- | --- | --- | --- | --- |
