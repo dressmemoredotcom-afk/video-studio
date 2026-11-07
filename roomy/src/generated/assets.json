@@ -8,24 +8,6 @@
   "bgm": null,
   "bgmStandin": "audio/ambient-loop.mp3",
   "listings": {
-    "ashrafieh-traditional-house": {
-      "voiceover": null,
-      "media": {
-        "ashrafieh/walkthrough.mp4": {
-          "file": "media/ashrafieh/walkthrough.mp4",
-          "kind": "video",
-          "width": 848,
-          "height": 480,
-          "durationS": 62.554558,
-          "content": {
-            "x": 0,
-            "y": 26,
-            "width": 848,
-            "height": 428
-          }
-        }
-      }
-    },
     "downtown-161sqm": {
       "voiceover": null,
       "media": {
@@ -59,39 +41,6 @@
         },
         "downtown-161sqm/photo-04.jpeg": {
           "file": "media/downtown-161sqm/photo-04.jpeg",
-          "kind": "photo",
-          "width": 1280,
-          "height": 960,
-          "durationS": 0.04
-        }
-      }
-    },
-    "downtown-275sqm": {
-      "voiceover": null,
-      "media": {
-        "downtown/terrace-ruins.jpeg": {
-          "file": "media/downtown/terrace-ruins.jpeg",
-          "kind": "photo",
-          "width": 1280,
-          "height": 960,
-          "durationS": 0.04
-        },
-        "downtown/apartment-walkthrough.mp4": {
-          "file": "media/downtown/apartment-walkthrough.mp4",
-          "kind": "video",
-          "width": 464,
-          "height": 832,
-          "durationS": 45.021678
-        },
-        "downtown/living-room-library.jpeg": {
-          "file": "media/downtown/living-room-library.jpeg",
-          "kind": "photo",
-          "width": 1280,
-          "height": 960,
-          "durationS": 0.04
-        },
-        "downtown/master-bedroom.jpeg": {
-          "file": "media/downtown/master-bedroom.jpeg",
           "kind": "photo",
           "width": 1280,
           "height": 960,
